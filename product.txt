@@ -1,0 +1,120 @@
+Chana Salad
+Price: ₹150
+Category: Salad
+Description: A protein-packed salad with chickpeas, cucumber, tomatoes, onions, and a dash of lemon juice. Ideal for a nutritious snack or meal.
+Benefits: High in protein, boosts immunity, aids digestion, supports muscle growth, good for skin health.
+
+Palak Soup
+Price: ₹120
+Category: Soup
+Description: A healthy, iron-rich soup made with fresh spinach, garlic, and light spices to boost immunity and energy levels.
+Benefits: Rich in iron, improves blood circulation, boosts immunity, promotes healthy digestion, rich in antioxidants.
+
+Moong Dal Khichdi
+Price: ₹180
+Category: Main Course
+Description: A comforting, easy-to-digest mix of moong dal and rice, cooked with turmeric, cumin, and mild spices for a wholesome meal.
+Benefits: High in protein, improves digestion, rich in fiber, aids in weight loss, boosts immunity.
+
+Kacha Kela Tikki
+Price: ₹100
+Category: Snack
+Description: A crispy, flavorful snack made with raw banana, peas, and spices, rich in fiber and a great source of potassium.
+Benefits: Rich in potassium, supports heart health, improves digestion, promotes bone health, good for skin.
+
+Sprouted Moong Salad
+Price: ₹130
+Category: Salad
+Description: A refreshing salad made with sprouted green moong, tomatoes, onions, and coriander, packed with protein and antioxidants.
+Benefits: High in protein, aids in weight loss, improves digestion, boosts energy, supports muscle growth.
+
+Masoor Dal Tadka
+Price: ₹140
+Category: Main Course
+Description: Red lentils cooked with ghee, cumin, and garlic, offering a rich source of protein and fiber for better digestion and energy.
+Benefits: High in protein, promotes heart health, improves digestion, boosts immunity, aids in weight loss.
+
+Vegetable Upma
+Price: ₹110
+Category: Breakfast
+Description: A savory semolina dish packed with seasonal vegetables, giving you a perfect balance of carbohydrates, vitamins, and fiber.
+Benefits: High in fiber, supports digestion, promotes energy levels, rich in vitamins, aids in weight management.
+
+Methi Thepla
+Price: ₹120
+Category: Breakfast
+Description: A wholesome Gujarati flatbread made from fenugreek leaves and whole wheat flour, packed with iron and fiber for better digestion.
+Benefits: Rich in iron, supports digestion, promotes bone health, helps in weight loss, boosts immunity.
+
+Dhokla
+Price: ₹80
+Category: Snack
+Description: A light, spongy, and steamed snack made from fermented rice and chickpea flour, perfect for boosting protein intake.
+Benefits: High in protein, improves digestion, boosts energy, promotes heart health, helps in weight management.
+
+Kadhi Pakora
+Price: ₹150
+Category: Main Course
+Description: A flavorful, tangy yogurt-based curry with crispy gram flour dumplings, rich in protein and calcium.
+Benefits: High in protein, supports bone health, aids digestion, boosts immunity, rich in calcium.
+
+Quinoa Pulao
+Price: ₹200
+Category: Main Course
+Description: A healthy variation of the classic pulao, made with quinoa instead of rice, loaded with fiber, protein, and essential amino acids.
+Benefits: High in protein, rich in fiber, aids digestion, supports muscle growth, promotes heart health.
+
+Aloo Gobi
+Price: ₹130
+Category: Main Course
+Description: A comforting curry made with potatoes and cauliflower, rich in fiber, vitamins, and antioxidants for overall health.
+Benefits: High in fiber, rich in antioxidants, supports digestion, promotes heart health, helps in weight management.
+
+Cucumber Mint Raita
+Price: ₹90
+Category: Side Dish
+Description: A cooling and refreshing yogurt-based side dish with cucumber and mint, ideal for digestion and hydration.
+Benefits: Helps with digestion, improves hydration, supports weight loss, cools the body, rich in probiotics.
+
+Gajar Halwa
+Price: ₹180
+Category: Dessert
+Description: A sweet, nourishing dessert made from grated carrots, milk, and nuts, rich in beta-carotene and antioxidants.
+Benefits: Rich in antioxidants, boosts eye health, improves skin health, helps in weight management, strengthens immunity.
+
+
+
+Chana Salad: High in protein, boosts immunity, aids digestion, supports muscle growth, good for skin health.
+
+Palak Soup: Rich in iron, improves blood circulation, boosts immunity, promotes healthy digestion, rich in antioxidants.
+
+Moong Dal Khichdi: High in protein, improves digestion, rich in fiber, aids in weight loss, boosts immunity.
+
+Kacha Kela Tikki: Rich in potassium, supports heart health, improves digestion, promotes bone health, good for skin.
+
+Sprouted Moong Salad: High in protein, aids in weight loss, improves digestion, boosts energy, supports muscle growth.
+
+Masoor Dal Tadka: High in protein, promotes heart health, improves digestion, boosts immunity, aids in weight loss.
+
+Vegetable Upma: High in fiber, supports digestion, promotes energy levels, rich in vitamins, aids in weight management.
+
+Methi Thepla: Rich in iron, supports digestion, promotes bone health, helps in weight loss, boosts immunity.
+
+Dhokla: High in protein, improves digestion, boosts energy, promotes heart health, helps in weight management.
+
+Kadhi Pakora: High in protein, supports bone health, aids digestion, boosts immunity, rich in calcium.
+
+Quinoa Pulao: High in protein, rich in fiber, aids digestion, supports muscle growth, promotes heart health.
+
+Aloo Gobi: High in fiber, rich in antioxidants, supports digestion, promotes heart health, helps in weight management.
+
+Cucumber Mint Raita: Helps with digestion, improves hydration, supports weight loss, cools the body, rich in probiotics.
+
+Gajar Halwa: Rich in antioxidants, boosts eye health, improves skin health, helps in weight management, strengthens immunity.
+
+
+
+
+
+
+
